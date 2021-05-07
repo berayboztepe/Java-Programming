@@ -30,7 +30,7 @@ public class Fruit {
         if(weight > 0) weight -= 0.5;  
     }
     public void removeSeeds(){
-        if(seeds > 0) seeds -= 0.5;
+        if(seeds > 0) seeds -= 1;
     }
     public void showInfo(){
         String result;
