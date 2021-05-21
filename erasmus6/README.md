@@ -1,6 +1,6 @@
 This is a GUI application. By pressing the screen, we create new colourful moving circles.
 
-At first, we create a circle by pressing the screen. If the circle goes to the border of the screen, it will ricochet back..
+At first, we create a circle that has random speed by pressing the screen. If the circle goes to the border of the screen, it will ricochet back..
 
 If we try to press to the places that the distance between my mouse's place and the border smaller than the size of circle, we can not create a circle unless we got a circle with smaller size.
 
